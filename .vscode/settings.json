@@ -1,0 +1,6 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "editor.formatOnSave": false,
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "makefile.loggingLevel": "Debug"
+}
