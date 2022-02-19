@@ -9,4 +9,5 @@
 config.h
 dwm/dwm
 slock/slock
-dmenu/dmneu
+dmenu/dmenu
+dmenu/stest
